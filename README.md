@@ -1,1 +1,1 @@
-# Python-assignments
+# SQL-assignments
